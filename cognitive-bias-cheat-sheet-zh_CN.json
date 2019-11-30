@@ -1,26 +1,26 @@
 {
- "name": "biases",
+ "name": "偏见",
  "children": [
 
   {
-   "name": "1. Too Much Information",
+   "name": "1. 太多的信息",
    "children": [
 
     {
-    "name": "We notice things already primed in memory or repeated often.",
+    "name": "我们注意到记忆中已经准备好或经常重复的事情.",
      "children": [
-      {"name": "Availability heuristic"},
-      {"name": "Attentional bias"},
-      {"name": "Illusory truth effect"},
-      {"name": "Mere exposure effect"},
-      {"name": "Context effect"},
-      {"name": "Cue-dependent forgetting"},
-      {"name": "Mood-congruent memory bias"},
-      {"name": "Frequency illusion"},
-      {"name": "Baader-Meinhof Phenomenon"},
-      {"name": "Empathy gap"},
-      {"name": "Omission bias"},
-      {"name": "Base rate fallacy"}
+      {"name": "可利用性法则"},
+      {"name": "注意偏差"},
+      {"name": "虚幻真理效应"},
+      {"name": "单纯曝光效应"},
+      {"name": "语境效应"},
+      {"name": "线索依赖性遗忘"},
+      {"name": "心境一致记忆偏差"},
+      {"name": "频率错觉"},
+      {"name": "Baader-Meinhof 现象"},
+      {"name": "共情鸿沟"},
+      {"name": "忽略偏差"},
+      {"name": "基本比率谬误"}
      ]
     },
 
