@@ -27,12 +27,12 @@
     {
       "name": "Bizarre/funny/visually-striking/anthropomorphic things stick out more than non-bizarre/unfunny things.",
       "children": [
-        {"name": "Bizarreness effect"},
-        {"name": "Humor effect"},
-        {"name": "Von Restorff effect"},
-        {"name": "Picture superiority effect"},
-        {"name": "Self-relevance effect"},
-        {"name": "Negativity bias"}
+        {"name"："奇异效应"},
+        {"name"："幽默效应"},
+        {"name"："Von Restorff effect"},
+        {"name"："图片优势效应"},
+        {"name"："自相关效应"},
+        {"name"："消极偏见"}
       ]
     },
 
@@ -40,14 +40,14 @@
       "name": "We notice when something has changed.",
       "children": [
 
-        {"name": "Anchoring"},
-        {"name": "Conservatism"},
-        {"name": "Contrast effect"},
-        {"name": "Distinction bias"},
-        {"name": "Focusing effect"},
-        {"name": "Framing effect"},
-        {"name": "Money illusion"},
-        {"name": "Weber–Fechner law"}
+        {"name"："锚定"},
+        {"name"："保守主义"},
+        {"name"："对比效果"},
+        {"name"："区分偏差"},
+        {"name"："聚焦效果"},
+        {"name"："框架效应"},
+        {"name"："金钱幻觉"},
+        {"name"："Weber–Fechner law"}
 
       ]
     },
